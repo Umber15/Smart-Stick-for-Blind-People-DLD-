@@ -1,0 +1,12 @@
+🔧 Components Required for Smart Stick Project
+
+Here’s everything you need to build this setup:
+
+Arduino Uno – the main controller
+Ultrasonic Sensor (HC-SR04) – to detect obstacles
+Buzzer – gives sound alert
+LED – visual alert indicator
+Resistor (220Ω) – for LED safety
+Jumper Wires – to connect components
+Breadboard (optional) – for easy connections
+Power Source (USB or battery) – to run Arduino
